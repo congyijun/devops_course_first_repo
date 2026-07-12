@@ -1,0 +1,4 @@
+This is the intial feature
+This is one more change
+
+This is change in file i am dong for git commit --amend
